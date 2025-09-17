@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="adoc"
+                 name="VERSION CONTROL"
+                 start-page="learning-git.md">
+
+    <toc-element topic="learning-git.md"/>
+    <toc-element topic="Getting-Started.md"/>
+</instance-profile>
