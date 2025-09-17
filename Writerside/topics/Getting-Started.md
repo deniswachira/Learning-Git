@@ -98,4 +98,4 @@ git clean -fx
 
 This command will remove all ignored files. Be cautious with this option as it will delete files listed in your .gitignore.
 
-**Warning**: git clean permanently deletes files. Use it cautiously, especially if there are untracked files you may want to keep.
+[//]: # (**Warning**: git clean permanently deletes files. Use it cautiously, especially if there are untracked files you may want to keep.)
